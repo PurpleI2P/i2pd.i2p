@@ -20,6 +20,7 @@
 				<a href="http://102chan.i2p/" target="_blank"><img src="img/102button.gif" alt="102chan.i2p"></a>
 				<a href="http://333.i2p/" target="_blank"><img src="img/333.gif" width="88px" height="31px" alt="Форум, посвященный разработке и поддержке i2pd"></a>
 				<a href="http://flibusta.i2p/" target="_blank"><img src="img/flibusta.gif" width="88px" height="31px" alt="Флибуста - книжное братство"></a>
+				<a href="http://hashshop.i2p/" target="_blank"><img src="img/hashshop.gif" alt="HashShop - Скачать торренты бесплатно без СМС"></a>
 				<a href="http://onelon.i2p/" target="_blank"><img src="img/onelon.png" alt="#onelon - анонимные блоги без цензуры"></a>
 				<a href="http://pizdabol.i2p/" target="_blank"><img src="img/pizdabol.gif" width="88px" height="31px" alt="Профессиональный эксперт"></a> 
 				<!-- <?php
