@@ -17,12 +17,12 @@
 				<font face="Arial" size="6">Your I2Pd Browser is working correctly</font><br>
 				<font face="Arial" size="7">Welcome to Invisible Internet</font>
 				<br><br><br>
-				<a href="http://102chan.i2p/" target="_blank"><img src="img/102button.gif" alt="102chan.i2p"></a>
-				<a href="http://333.i2p/" target="_blank"><img src="img/333.gif" width="88px" height="31px" alt="Форум, посвященный разработке и поддержке i2pd"></a>
-				<a href="http://flibusta.i2p/" target="_blank"><img src="img/flibusta.gif" width="88px" height="31px" alt="Флибуста - книжное братство"></a>
-				<a href="http://hashshop.i2p/" target="_blank"><img src="img/hashshop.gif" alt="HashShop - Скачать торренты бесплатно без СМС"></a>
-				<a href="http://onelon.i2p/" target="_blank"><img src="img/onelon.png" alt="#onelon - анонимные блоги без цензуры"></a>
-				<a href="http://pizdabol.i2p/" target="_blank"><img src="img/pizdabol.gif" width="88px" height="31px" alt="Профессиональный эксперт"></a> 
+				<a href="http://102chan.i2p/" target="_blank" title="Имиджборда 102chan"><img src="img/102button.gif" alt="102chan.i2p"></a>
+				<a href="http://333.i2p/" target="_blank" title="Форум, посвященный разработке и поддержке i2pd"><img src="img/333.gif" width="88px" height="31px" alt="333.i2p"></a>
+				<a href="http://flibusta.i2p/" target="_blank" title="Флибуста - книжное братство"><img src="img/flibusta.gif" width="88px" height="31px" alt="flibusta.i2p"></a>
+				<a href="http://hashshop.i2p/" target="_blank" title="HashShop - Скачать торренты бесплатно без СМС"><img src="img/hashshop.gif" alt="hashshop.i2p"></a>
+				<a href="http://onelon.i2p/" target="_blank" title="#onelon - анонимные блоги без цензуры"><img src="img/onelon.png" alt="onelon.i2p"></a>
+				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a> 
 				<!-- <?php
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
