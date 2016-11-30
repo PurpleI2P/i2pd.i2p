@@ -9,7 +9,7 @@
 	<link rel="shortcut icon" href="favicon.ico">
 </head>
 
-<body text="#FFFFFF" bgcolor="#800080">
+<body text="#FFFFFF" bgcolor="#8764b9">
 	<table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
 		<tr>
 			<td align=center>
@@ -22,9 +22,11 @@
 				<a href="http://inr.i2p/" target="_blank" title="Поиск и регистрация адресов в зоне I2P"><img src="img/inr.png" alt="inr.i2p"></a>
 				<a href="http://flibusta.i2p/" target="_blank" title="Флибуста - книжное братство"><img src="img/flibusta.gif" width="88px" height="31px" alt="flibusta.i2p"></a>
 				<a href="http://hashshop.i2p/" target="_blank" title="HashShop - Скачать торренты бесплатно без СМС"><img src="img/hashshop.gif" alt="hashshop.i2p"></a>
+				<a href="http://lifebox.i2p/" target="_blank" title="Социальная сеть LifeBOX"><img src="img/lifebox.png" width="88px" height="31px" alt="lifebox.i2p"></a>
+				<br>
 				<a href="http://onelon.i2p/" target="_blank" title="#onelon - анонимные блоги без цензуры"><img src="img/onelon.png" alt="onelon.i2p"></a>
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a> 
-				<!-- <?php
+				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
 					$count=fread($f,100);
