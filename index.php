@@ -26,6 +26,7 @@
 				<br>
 				<a href="http://onelon.i2p/" target="_blank" title="#onelon - анонимные блоги без цензуры"><img src="img/onelon.png" alt="onelon.i2p"></a>
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
+				<a href="http://ptt.i2p/" target="_blank" title="Открытый торрент-трекер для анонимного использования"><img src="img/ptt.png" width="88px" height="31px" alt="ptt.i2p"></a>
 				<a href="http://walker.i2p/" target="_blank" title="Walker - психотронный туннель в светлое коммунистическое будущее"><img src="img/walker.png" alt="walker.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
