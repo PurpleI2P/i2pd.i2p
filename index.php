@@ -28,7 +28,7 @@
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
 				<a href="http://ptt.i2p/" target="_blank" title="Открытый торрент-трекер для анонимного использования"><img src="img/ptt.png" width="88px" height="31px" alt="ptt.i2p"></a>
 				<a href="http://r4sas.i2p/" target="_blank" title="Сервисы, работающие на I2Pd"><img src="img/r4sas.png" width="88px" height="31px" alt="r4sas.i2p"></a>
-				<a href="http://walker.i2p/" target="_blank" title="Walker - психотронный туннель в светлое коммунистическое будущее"><img src="img/walker.png" alt="walker.i2p"></a>
+				<a href="http://fsoc.i2p/" target="_blank" title="Социальная сеть FSOC"><img src="img/fsoc.png" width="88px" height="31px" alt="fsoc.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
