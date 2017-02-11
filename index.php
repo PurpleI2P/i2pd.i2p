@@ -25,14 +25,11 @@
 				<a href="http://lifebox.i2p/" target="_blank" title="Социальная сеть LifeBOX"><img src="img/lifebox.png" width="88px" height="31px" alt="lifebox.i2p"></a>
 				<br>
 				<a href="http://onelon.i2p/" target="_blank" title="#onelon - анонимные блоги без цензуры"><img src="img/onelon.png" alt="onelon.i2p"></a>
-				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
+				<a href="http://wiki.ilita.i2p/" target="_blank" title="Элитарная энциклопедия русского сегмента I2P"><img src="img/wiki_banner.png" width="88px" height="31px" alt="wiki.ilita.i2p"></a>
 				<a href="http://dead.i2p/" target="_blank" title="Агрегатор новостей"><img src="img/dead.png" width="88px" height="31px" alt="dead.i2p"></a>
 				<a href="http://ptt.i2p/" target="_blank" title="Открытый торрент-трекер для анонимного использования"><img src="img/ptt.png" width="88px" height="31px" alt="ptt.i2p"></a>
 				<a href="http://r4sas.i2p/" target="_blank" title="Сервисы, работающие на I2Pd"><img src="img/r4sas.png" width="88px" height="31px" alt="r4sas.i2p"></a>
-				<a href="http://fsoc.i2p/" target="_blank" title="Социальная сеть FSOC"><img src="img/fsoc.png" width="88px" height="31px" alt="fsoc.i2p"></a>	
-				<br>
-				<a href="http://wiki.ilita.i2p/" target="_blank" title="Элитарная энциклопедия
-русского сегмента I2P"><img src="img/wiki_banner.png" width="88px" height="31px" alt="wiki.ilita.i2p"></a>	
+				<a href="http://fsoc.i2p/" target="_blank" title="Социальная сеть FSOC"><img src="img/fsoc.png" width="88px" height="31px" alt="fsoc.i2p"></a>		
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
