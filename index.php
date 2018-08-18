@@ -36,7 +36,7 @@
 				<a href="http://infosecurity.i2p/" target="_blank" title="Информационный портал по безопасности"><img src="img/infosecurity.png" width="88px" height="31px" alt="infosecurity.i2p"></a>
 				<a href="http://gstbtc.i2p/" target="_blank" title="Обмен криптовалют"><img src="img/gstbtc.png" width="88px" height="31px" alt="gstbtc.i2p"></a>	
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
-				<a href="http://hq.postman.i2p/" target="_blank" title="Электронная почта"><img src="img/postman.i2p" width="88px" height="31px" alt="hq.postman.i2p"></a>
+				<a href="http://hq.postman.i2p/" target="_blank" title="Электронная почта"><img src="img/postman.gif" width="88px" height="31px" alt="hq.postman.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
