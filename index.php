@@ -38,6 +38,7 @@
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
 				<a href="http://obmen.i2p/" target="_blank" title="Криптовалютная биржа RUR/BTC/GST"><img src="img/obmen.png" width="88px" height="31px" alt="obmen.i2p"></a>
 				<a href="http://knijka.i2p/" target="_blank" title="При любой непонятной ситуации смотри сюда"><img src="img/knijka.png" width="88px" height="31px" alt="knijka.i2p"></a>
+				<a href="http://nigg3rveztrkpzoimq4z46pvbtml27mfhadt7n5bvl3pzzyzefxa.b32.i2p/" target="_blank" title="Наших бьют"><img src="img/mlw.jpg" width="88px" height="31px" alt="wlm.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
