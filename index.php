@@ -34,7 +34,7 @@
 				<a href="http://fsoc.i2p/" target="_blank" title="Социальная сеть FSOC"><img src="img/fsoc.png" width="88px" height="31px" alt="fsoc.i2p"></a>
 				<br>
 				<a href="http://animal.i2p/" target="_blank" title="Современная фауна"><img src="img/animal.png" width="88px" height="31px" alt="animal.i2p"></a>	
-				<a href="http://infosecurity.i2p/" target="_blank" title="Информационный портал по безопасности"><img src="img/infosecurity.png" width="88px" height="31px" alt="infosecurity.i2p"></a>
+				<a href="http://notbob.i2p/" target="_blank" title="Список и статистика eepsite-ов"><img src="img/notbob.jpg" width="88px" height="31px" alt="notbob.i2p"></a>
 				<a href="http://pizdabol.i2p/" target="_blank" title="Профессиональный эксперт (18+)"><img src="img/pizdabol.gif" width="88px" height="31px" alt="pizdabol.i2p"></a>
 				<a href="http://obmen.i2p/" target="_blank" title="Криптовалютная биржа RUR/BTC/GST"><img src="img/obmen.png" width="88px" height="31px" alt="obmen.i2p"></a>
 				<a href="http://knijka.i2p/" target="_blank" title="При любой непонятной ситуации смотри сюда"><img src="img/knijka.png" width="88px" height="31px" alt="knijka.i2p"></a>
