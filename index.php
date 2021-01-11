@@ -28,7 +28,7 @@
 				<a href="http://onelon.i2p/" target="_blank" title="#onelon - анонимные блоги без цензуры"><img src="img/onelon.png" alt="onelon.i2p"></a>
 				<a href="http://wiki.ilita.i2p/" target="_blank" title="Элитарная энциклопедия русского сегмента I2P"><img src="img/wiki_banner.png" width="88px" height="31px" alt="wiki.ilita.i2p"></a>
 				<a href="http://dead.i2p/" target="_blank" title="Агрегатор новостей"><img src="img/dead.png" width="88px" height="31px" alt="dead.i2p"></a>
-				<a href="http://boran.i2p/" target="_blank" title="Почтовый сервис(клирнет/.i2p) и форум обо всём и не о чё"><img src="img/boran.jpg" width="88px" height="31px" alt="boran.i2p"></a>
+				<a href="http://http://t4cvvenniup6dcdlu2ehdycos5r3luccfemwd6hhvyqv5zd6obgq.b32.i2p/projects/bonobonet//" target="_blank" title="BonoboNet"><img src="img/bnet_ilita.png" width="88px" height="31px" alt="bonobonet.i2p"></a>
 				<a href="http://hq.postman.i2p/" target="_blank" title="Электронная почта"><img src="img/postman.gif" width="88px" height="31px" alt="hq.postman.i2p"></a>
 				<a href="http://r4sas.i2p/" target="_blank" title="Сервисы, работающие на I2Pd"><img src="img/r4sas.png" width="88px" height="31px" alt="r4sas.i2p"></a>
 				<a href="http://fsoc.i2p/" target="_blank" title="Социальная сеть FSOC"><img src="img/fsoc.png" width="88px" height="31px" alt="fsoc.i2p"></a>
@@ -43,6 +43,7 @@
 				<br>
 				<a href="http://kislitsa.i2p/" target="_blank" title="Имиджборда Кислица"><img src="img/kislitsa.png" alt="kislitsa.i2p"></a>
 				<a href="http://sportloto.i2p/" target="_blank" title="Для жалоб"><img src="img/sportloto.png" alt="sportloto.i2p"></a>
+				<a href="http://boran.i2p/" target="_blank" title="Почтовый сервис(клирнет/.i2p) и форум обо всём и не о чё"><img src="img/boran.jpg" width="88px" height="31px" alt="boran.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
