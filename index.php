@@ -19,7 +19,7 @@
 				<br><br><br>
 				<a href="http://102chan.i2p/" target="_blank" title="Имиджборда 102chan"><img src="img/102button.gif" alt="102chan.i2p"></a>
 				<a href="http://333.i2p/" target="_blank" title="Форум, посвященный разработке и поддержке i2pd"><img src="img/333.gif" width="88px" height="31px" alt="333.i2p"></a>
-				<a href="http://inr.i2p/" target="_blank" title="Поиск и регистрация адресов в зоне I2P"><img src="img/inr.png" alt="inr.i2p"></a>
+				<a href="http://reg.i2p/" target="_blank" title="Поиск и регистрация адресов в зоне I2P"><img src="img/reg.png" alt="reg.i2p"></a>
 				<a href="http://flibusta.i2p/" target="_blank" title="Флибуста - книжное братство"><img src="img/flibusta.gif" width="88px" height="31px" alt="flibusta.i2p"></a>
 				<a href="http://black.i2p/" target="_blank" title="Доска объявлений"><img src="img/black.png"  width="88px" height="31px" alt="black.i2p"></a>
 				<a href="http://lifebox.i2p/" target="_blank" title="Социальная сеть LifeBOX"><img src="img/lifebox.png" width="88px" height="31px" alt="lifebox.i2p"></a>
