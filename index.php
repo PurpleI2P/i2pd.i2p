@@ -41,6 +41,7 @@
 				<a href="http://nigg3rveztrkpzoimq4z46pvbtml27mfhadt7n5bvl3pzzyzefxa.b32.i2p/" target="_blank" title="Наших бьют"><img src="img/mlw.jpg" width="88px" height="31px" alt="wlm.i2p"></a>
 				<a href="http://irc.acetone.i2p/#ru" target="_blank" title="Веб-морда ILITA IRC"><img src="img/irc-acetone.jpg" alt="irc.acetone.i2p"></a>
 				<br>
+				<a href="http://acetone.i2p/" target="_blank" title="Public outproxy & Services"><img src="img/acetone.png" alt="acetone.i2p"></a>
 				<a href="http://kislitsa.i2p/" target="_blank" title="Имиджборда Кислица"><img src="img/kislitsa.png" alt="kislitsa.i2p"></a>
 				<a href="http://sportloto.i2p/" target="_blank" title="Для жалоб"><img src="img/sportloto.png" alt="sportloto.i2p"></a>
 				<a href="http://boran.i2p/" target="_blank" title="Почтовый сервис(клирнет/.i2p) и форум обо всём и не о чё"><img src="img/boran.jpg" width="88px" height="31px" alt="boran.i2p"></a>
