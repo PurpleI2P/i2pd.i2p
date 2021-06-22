@@ -46,6 +46,7 @@
 				<a href="http://sportloto.i2p/" target="_blank" title="Для жалоб"><img src="img/sportloto.png" alt="sportloto.i2p"></a>
 				<a href="http://boran.i2p/" target="_blank" title="Почтовый сервис(клирнет/.i2p) и форум обо всём и не о чё"><img src="img/boran.jpg" width="88px" height="31px" alt="boran.i2p"></a>
 				<a href="http://inr.i2p/" target="_blank" title="Поиск и регистрация адресов в зоне I2P"><img src="img/inr.png" alt="inr.i2p"></a>
+				<a href="http://git.community.i2p" target="_blank" title="Community I2P git service "><img src="img/gitcommunity.jpg" alt="git.community.i2p"></a>
 				<!-- <?php  // disabled
 					$f=fopen("stat.dat","a+");
 					flock($f,LOCK_EX);
