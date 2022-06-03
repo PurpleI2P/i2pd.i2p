@@ -10,7 +10,7 @@
 	<link rel="shortcut icon" href="favicon.ico">
 	<style>
 		.wrapper { display: contents; }
-		.content { text-align: center; position: relative; left: 50%; top: 50%; transform: translate(-50%, -50%); max-width: 800px; }
+		.content { text-align: center; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 100%; max-width: 800px; }
 		.spacer { margin: 3em; }
 		.text1 { font-size: 2em; font-family: Arial; }
 		.text2 { font-size: 3em; font-family: Arial; }
@@ -21,7 +21,7 @@
 		.invis:hover { color: #8764b9; transition: 0.4s; }
 		@media screen and (max-width: 992px) {
 			.wrapper { display: grid }
-			.content { left: unset; top: 10%; margin: 0 auto; transform: unset; }
+			.content { left: unset; top: 10%; margin: 0 auto; transform: unset; width: unset; }
 			.spacer { margin: 1em; }
 			.text1 { font-size: 1.2em; }
 			.text2 { font-size: 1.5em; }
