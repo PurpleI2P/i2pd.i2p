@@ -85,14 +85,14 @@ body {
     color: rgba(194, 151, 252, 0);
 }
 .spacer {
-    margin: 2em 0;
+    margin: 1em 0;
 }
 .badge {
-    width: 88px;
-    height: 31px;
+    width: 100px;
+    height: 36px;
     border-radius: 6px;
     border: 2px solid #674d8c;
-    margin: 0.1em;
+    margin: 0.2em;
     transition: all 0.3s ease, box-shadow 0.4s ease;
 }
 .badge:hover {
@@ -109,5 +109,6 @@ body {
     .text2 { font-size: 2em; }
     .logo { max-width: 150px; }
     .wrapper { padding: 0.5em; }
-    .badge { width: 70px; height: 25px; margin: 0.3em; }
+    .badge { width: 70px; height: 25px; margin: 0.2em; }
+}
 }
